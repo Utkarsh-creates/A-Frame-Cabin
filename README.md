@@ -2,7 +2,7 @@
 
 This repository contains a 3D model of a cabin along with a complete scene created in Blender. The scene is designed to showcase the cabin in its natural environment, providing a comprehensive and immersive experience.
 
-![Cabin Render](cabin.png)
+![Cabin Render](image.png)
 
 ## Description
 
