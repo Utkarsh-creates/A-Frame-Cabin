@@ -18,5 +18,6 @@ The cabin model features a rustic design, complete with wooden textures and a co
 
 ## Preview and Download
 
-You can view a 3D preview of the cabin model and donwload it on my [![Sketechfab](https://img.shields.io/badge/Sketchfab-blue)](https://sketchfab.com/thepolygonic) 
+You can view a 3D preview of the cabin model and donwload:
+[![Sketechfab](https://img.shields.io/badge/Sketchfab-blue)](https://sketchfab.com/thepolygonic) 
 
