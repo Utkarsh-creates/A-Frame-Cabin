@@ -18,4 +18,5 @@ The cabin model features a rustic design, complete with wooden textures and a co
 
 ## Preview
 
-You can view a 3D preview of the cabin model and donwload it on my Sketchfab account [here](https://sketchfab.com/thepolygonic).
+You can view a 3D preview of the cabin model and donwload it on my [![Sketechfab](https://img.shields.io/badge/Sketchfab-blue)](https://sketchfab.com/thepolygonic) 
+
